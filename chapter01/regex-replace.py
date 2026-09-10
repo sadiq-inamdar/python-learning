@@ -6,4 +6,4 @@ pattern = r"brown"
 replacement = "black"
 
 new_text = re.sub(pattern, replacement, text)
-print("Modified text:", new_text)
+print("Modified text:", new_text) 
